@@ -15,18 +15,18 @@
 - 🌱 Currently learning: **MERN Stack + AWS**
 - 🛠️ Building: Cool web apps with **MongoDB | Express | React | Node**
 - 💬 Ask me about: **JS, React, Git, Python**
-- 📧 Reach me: `00lionel11@gmail.com`
+- 📧 Reach me: `codewithsreerag@gmail.com`
 - 🎯 2025 Goal: Land a job & contribute to open source
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewith-lionel&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewith-sreerag&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10&hide_border=false" height="170" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewith-lionel&layout=compact&langs_count=6&theme=radical&border_radius=10&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewith-sreerag&layout=compact&langs_count=6&theme=radical&border_radius=10&hide_border=false" height="170" />
 
-  <img src="https://streak-stats.demolab.com?user=codewith-lionel&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170" />
+  <img src="https://streak-stats.demolab.com?user=codewith-sreerag&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170" />
 </div>
 
 ---
@@ -69,7 +69,7 @@
   <a href="https://www.instagram.com/mr_zodiac._?igsh=anY0N3g0MWRvZTdi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:00lionel11@gmail.com" target="_blank">
+  <a href="mailto:codewithsreerag@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/lionel-zodiac" target="_blank">
